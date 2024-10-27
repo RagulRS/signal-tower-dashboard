@@ -1,0 +1,354 @@
+
+{
+  "towerId": "TWR0002",
+  "signalData": [
+{
+  "timestamp": "2024-10-25T09:08:48.000",
+  "signalStrength": -76,
+  "signalQuality": 45,
+  "frequency": 2600
+},
+{
+  "timestamp": "2024-10-25T08:08:48.000",
+  "signalStrength": -52,
+  "signalQuality": 83,
+  "frequency": 800
+},
+{
+  "timestamp": "2024-10-25T07:08:48.000",
+  "signalStrength": -120,
+  "signalQuality": 94,
+  "frequency": 700
+},
+{
+  "timestamp": "2024-10-25T06:08:48.000",
+  "signalStrength": -93,
+  "signalQuality": 55,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-25T05:08:48.000",
+  "signalStrength": -104,
+  "signalQuality": 56,
+  "frequency": 700
+},
+{
+  "timestamp": "2024-10-25T04:08:48.000",
+  "signalStrength": -110,
+  "signalQuality": 59,
+  "frequency": 2600
+},
+{
+  "timestamp": "2024-10-25T03:08:48.000",
+  "signalStrength": -104,
+  "signalQuality": 96,
+  "frequency": 2600
+},
+{
+  "timestamp": "2024-10-25T02:08:48.000",
+  "signalStrength": -104,
+  "signalQuality": 82,
+  "frequency": 800
+},
+{
+  "timestamp": "2024-10-25T01:08:48.000",
+  "signalStrength": -88,
+  "signalQuality": 65,
+  "frequency": 1800
+},
+{
+  "timestamp": "2024-10-25T00:08:48.000",
+  "signalStrength": -62,
+  "signalQuality": 86,
+  "frequency": 800
+},
+{
+  "timestamp": "2024-10-24T23:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T22:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T21:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T20:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T19:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T18:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T17:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T16:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T15:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T14:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T13:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T12:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T11:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T10:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T09:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T08:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T07:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T06:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T05:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T04:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T03:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T02:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T01:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-24T00:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T23:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T22:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T21:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T20:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T19:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T18:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T17:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T16:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T15:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T14:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T13:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T12:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T11:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T10:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T09:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T08:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T07:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T06:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T05:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T04:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T03:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T02:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T01:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+},
+{
+  "timestamp": "2024-10-23T00:08:48.000",
+  "signalStrength": -61,
+  "signalQuality": 95,
+  "frequency": 2100
+}
+]
+}
